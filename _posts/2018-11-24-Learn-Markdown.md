@@ -4,7 +4,7 @@ title: '学习Markdown语法小计'
 date: 2018-11-24
 categories: 学习
 tags: Markdown
-cover: ''
+cover: 'http://img1.imgtn.bdimg.com/it/u=3198634656,418930736&fm=214&gp=0.jpg'
 ---
 
 # 学习Markdown语法小计
