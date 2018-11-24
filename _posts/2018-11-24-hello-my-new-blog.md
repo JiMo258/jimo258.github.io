@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你好，新博客
+title: '你好，新博客'
 date: 2018-11-24
 categories: 随笔
 tags: 新博客
