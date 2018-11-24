@@ -4,6 +4,7 @@ title: 你好，新博客
 date: 2018-11-24
 categories: 随笔
 tags: 新博客
+cover: 'https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1541411785&di=641f7e57cdb0fb3bd8b91a5b1791d96f&src=http://i0.hdslb.com/bfs/archive/bcfd648f8df13aad215fd5c2bea56cb734ed3d3c.jpg'
 ---
 
 #你好，新博客
