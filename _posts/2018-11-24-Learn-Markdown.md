@@ -68,9 +68,11 @@ cover: '/picture/Markdown.jpg'
 只需要在基础语法的括号中填入图片的位置路径即可，支持绝对路径和相对路径。
 
 ```markdown
-![](/picture/Markdown.jpg)
+![](/picture/001.png)
 ```
-![](/picture/Markdown.jpg)
+
+> ![](/picture/001.png)
+
 - 插入网络图片
 
 只需要在基础语法的括号中填入图片的网络链接即可，现在已经有很多免费/收费图床和方便传图的小工具可选。
