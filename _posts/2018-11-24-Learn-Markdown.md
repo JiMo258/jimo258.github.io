@@ -53,7 +53,7 @@ cover: '/picture/Markdown.jpg'
 
 链接符号为
 
-```
+```markdown
 [百度](https://www.baidu.com/)
 ```
 
@@ -110,10 +110,10 @@ cover: '/picture/Markdown.jpg'
 
 引用符号为“>”
 ```markdown
-> 这虽然是游戏，但可不是闹着玩的
+> 这虽然是游戏，但可不是闹着玩的  
 >                                 ——茅场晶彦
 ```
-> 这虽然是游戏，但可不是闹着玩的
+> 这虽然是游戏，但可不是闹着玩的  
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——茅场晶彦
 
 
