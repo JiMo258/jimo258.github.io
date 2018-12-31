@@ -4,7 +4,7 @@ title: '学习Markdown语法小计'
 date: 2018-11-24
 categories: 学习
 tags: Markdown
-cover: 'http://img1.imgtn.bdimg.com/it/u=3198634656,418930736&fm=214&gp=0.jpg'
+cover: '/picture/Markdown.jpg'
 ---
 
 # 学习Markdown语法小计
@@ -68,9 +68,9 @@ cover: 'http://img1.imgtn.bdimg.com/it/u=3198634656,418930736&fm=214&gp=0.jpg'
 只需要在基础语法的括号中填入图片的位置路径即可，支持绝对路径和相对路径。
 
 ```markdown
-![](F:\壁纸\动漫\17.jpg)
+![](/picture/Markdown.jpg)
 ```
-
+![](/picture/Markdown.jpg)
 - 插入网络图片
 
 只需要在基础语法的括号中填入图片的网络链接即可，现在已经有很多免费/收费图床和方便传图的小工具可选。
