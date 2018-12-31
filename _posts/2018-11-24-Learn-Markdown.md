@@ -105,7 +105,6 @@ cover: '/picture/Markdown.jpg'
 反正我也不推荐用，至于为啥，看到最后面就知道了2333333
 
 
-
 ## 5.引用
 
 引用符号为“>”
@@ -114,7 +113,7 @@ cover: '/picture/Markdown.jpg'
 >                                 ——茅场晶彦
 ```
 > 这虽然是游戏，但可不是闹着玩的  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——茅场晶彦
+> 　　　　　　　　　　　　　　　　　——茅场晶彦
 
 
 
@@ -132,8 +131,8 @@ Markdown 的粗体和斜体也非常简单，用两个 * 包含一段文本就�
 
 ## 7.代码引用
 
-需要引用代码时，如果引用的语句只有一段，不分行，可以用\`将语句包起来 。
-如果引用的语句为多行，可以用\`\`\`置于这段代码的首行和末行。
+需要引用代码时，如果引用的语句只有一段，不分行，可以用\` 将语句包起来 。
+如果引用的语句为多行，可以用\` \` \` 置于这段代码的首行和末行。
 空一行后直接按两下tab键也可以实现代码块的功能
 
 放个我大学时候方便C语言实训做的一个算信号机代码坐标的一个小工具，反正我现在看不懂了23333
