@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '学习Markdown语法小计'
-date: 2018-11-24
+date: 2018-11-25
 categories: 学习
 tags: Markdown
 cover: '/picture/Markdown.jpg'
