@@ -9,7 +9,7 @@ cover: '/picture/wuhan001.jpg'
 
 武汉学习之旅
 ===============
-<embed src="//music.163.com/style/swf/widget.swf?sid=26450093&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<center><embed src="//music.163.com/style/swf/widget.swf?sid=26450093&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></center>
 
 
 #### 根据工作的需求，来武汉学习已经一个月有余了，紧张的学习一下子好像又把我带回了高中时代。早操、上午的课、下午的课、晚自习、晚点名，一切在学生时代见怪不怪的事情竟然把一个刚步入职场不久的我压的喘不过气，但又似乎并非想象中的那么难以忍受下去。
