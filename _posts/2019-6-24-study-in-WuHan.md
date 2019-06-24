@@ -11,7 +11,7 @@ cover: '/picture/wuhan001.jpg'
 ===============
 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="https://www.jimo258.top/muisc/DEPAPEPE - いい日だったね。.mp3">
+      <source id="mp3" src="https://www.jimo258.top/muisc/DEPAPEPE-いい日だったね。.mp3">
       </audio>
 
 <embed src="//music.163.com/style/swf/widget.swf?sid=26450093&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>
