@@ -4,7 +4,7 @@ title: '武汉学习之旅'
 date: 2019-06-24
 categories: 随笔
 tags: 武汉 旅游
-cover: '/picture/wuhan001.jpg'
+cover: '/picture/IMG_20190611_155335.jpg'
 ---
 
 武汉学习之旅
